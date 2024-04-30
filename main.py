@@ -27,9 +27,9 @@ def guess():
       print("Too low.")
       attempts -=1
     else:
-      break
-      return f"\nYou got it! The answer was {random_number}."
+      print(f"\nYou got it! The answer was {random_number}.")
+      return
       
-  return "\nYou've run out of guesses, you lose."
+  print("\nYou've run out of guesses, you lose.")
 
-print(guess())
+guess()
