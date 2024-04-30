@@ -21,11 +21,8 @@ You have 9 attempts remaining to guess the number.
 Make a guess: 90
 Too high.
 ```
-```
-You got it! The answer was 52.
-```
 
-If the user successfully guess the number, a winner notification will be displayed. Else, a game over notification will be dieplayed.
+If the user successfully guessed the number, a winner notification will be displayed. Otherwise, a game-over notification will be displayed.
 ```
 You got it! The answer was 52.
 ```
