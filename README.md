@@ -3,7 +3,7 @@ A game in which the player has to correctly guess the answer. Making a diagnosis
 
 # Instructions
 
-The objective is to write a program that will allow the player to submit a guess for a number between 1 and 100. The program should ask the player if they want to play in **easy** or **hard** mode, wherein easy mode has 10 attempts, and hard mode has 5 attempts.
+The objective is to ask the player to submit a number guess between 1 and 100. The program should ask the player if they want to play in **easy** or **hard** mode, wherein easy mode has 10 attempts, and hard mode has 5 attempts.
 
 ```
 Welcome to the Number Guessing Game!
